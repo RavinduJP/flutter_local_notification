@@ -9,7 +9,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:48373739977:android:139eda8096068398f03818",
         "android_client_info": {
-          "package_name": "com.localNotification.app"
+          "package_name": "com.example.local_notification"
         }
       },
       "oauth_client": [],
@@ -28,7 +28,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:48373739977:android:574cba9d37d7dc1cf03818",
         "android_client_info": {
-          "package_name": "com.localNotification.com"
+          "package_name": "com.example.local_notification"
         }
       },
       "oauth_client": [],
